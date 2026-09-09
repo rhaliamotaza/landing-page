@@ -180,6 +180,10 @@ button {
 
 /* CALL TO ACTION */
 
+.cta-section {
+    padding: 75px 0;
+}
+
 .cta {
     width: 770px;
     margin: 0 auto;
